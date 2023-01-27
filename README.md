@@ -9,3 +9,5 @@ Para as construções 1 e 2 basta abrir o arquivo index.html para visualizar a c
 Para essas construções é necessário instalar as dependências do OpenGL, por meio do comando 'pip install pyopengl' e após isso rodar o código em suas respectivas pastas com o comando python + nome_do_arquivo.py na linha de comando do terminal. 
 
 ## ETAPA 2
+
+Para todas as construções desta etapa é necessário instalar as dependências do OpenGL, por meio do comando 'pip install pyopengl' e após isso rodar o código em suas respectivas pastas com o comando python + nome_do_arquivo.py na linha de comando do terminal.
